@@ -153,6 +153,25 @@ with col2:
                                color_discrete_sequence=["#E377C2"])
     st.plotly_chart(fig_critiques, use_container_width=True)
 
+def load_data(file_path):
+    df = pd.read_csv(file_path, sep=';')
+    return df
+df = load_data(file_path)
+
+# Nettoyage et préparation des données
+# Convertir la colonne "Inconfort" en catégorie et calculer les pourcentages
+inconfort_counts = df['Inconfort'].value_counts(normalize=True).reset_index(name='percentage')
+inconfort_counts.columns = ['Inconfort', 'Percentage']
+inconfort_counts['Percentage'] = inconfort_counts['Percentage'] * 100  # Convertir en pourcentage
+
+# Graphique: Pourcentage des catégories d'inconfort
+fig = px.pie(inconfort_counts, names='Inconfort', values='Percentage', 
+             title="Pourcentage d'Inconfort selon les catégories", 
+             color='Inconfort', color_discrete_sequence=px.colors.qualitative.Set3)
+
+# Afficher le graphique dans Streamlit
+st.plotly_chart(fig, use_container_width=True)
+
 # Afficher les données brutes (optionnel)
 with st.expander("Afficher les Données Brutes"):
     st.dataframe(df)
