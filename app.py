@@ -112,15 +112,6 @@ with col1:
         fig_tweets = px.bar(tweets_per_week, x='week', y='nombre_tweets',
                             title='Nombre de Tweets par Semaine',
                             color_discrete_sequence=["#0083B8"])
-    elif time_granularity == "Inconfort":
-        # Graphique de pourcentage de mécontentement (Inconfort)
-        inconfort_count = df['inconfort'].value_counts(normalize=True).reset_index(name='percentage')
-        inconfort_count.columns = ['Inconfort', 'Percentage']
-        inconfort_count['Percentage'] = inconfort_count['Percentage'] * 100  # Convertir en pourcentage
-
-        fig_inconfort = px.pie(inconfort_count, names='Inconfort', values='Percentage',
-                               title="Pourcentage de Mécontentement selon Inconfort")
-        st.plotly_chart(fig_inconfort, use_container_width=True)
     else:  # Mois
         df['month'] = pd.to_datetime(df['created_at']).dt.strftime('%Y-%m')
         tweets_per_month = df.groupby('month').size().reset_index(name='nombre_tweets')
@@ -153,24 +144,18 @@ with col2:
                                color_discrete_sequence=["#E377C2"])
     st.plotly_chart(fig_critiques, use_container_width=True)
 
-def load_data(file_path):
-    df = pd.read_csv(file_path, sep=';')
-    return df
-df = load_data(file_path)
+# Ajouter le graphique pour le pourcentage d'inconfort
+if time_granularity == "Inconfort":
+    # Nettoyage et préparation des données pour l'inconfort
+    inconfort_counts = df['Inconfort'].value_counts(normalize=True).reset_index(name='percentage')
+    inconfort_counts.columns = ['Inconfort', 'Percentage']
+    inconfort_counts['Percentage'] = inconfort_counts['Percentage'] * 100  # Convertir en pourcentage
 
-# Nettoyage et préparation des données
-# Convertir la colonne "Inconfort" en catégorie et calculer les pourcentages
-inconfort_counts = df['Inconfort'].value_counts(normalize=True).reset_index(name='percentage')
-inconfort_counts.columns = ['Inconfort', 'Percentage']
-inconfort_counts['Percentage'] = inconfort_counts['Percentage'] * 100  # Convertir en pourcentage
-
-# Graphique: Pourcentage des catégories d'inconfort
-fig = px.pie(inconfort_counts, names='Inconfort', values='Percentage', 
-             title="Pourcentage d'Inconfort selon les catégories", 
-             color='Inconfort', color_discrete_sequence=px.colors.qualitative.Set3)
-
-# Afficher le graphique dans Streamlit
-st.plotly_chart(fig, use_container_width=True)
+    # Graphique: Pourcentage des catégories d'inconfort
+    fig_inconfort = px.pie(inconfort_counts, names='Inconfort', values='Percentage', 
+                           title="Pourcentage d'Inconfort selon les catégories", 
+                           color='Inconfort', color_discrete_sequence=px.colors.qualitative.Set3)
+    st.plotly_chart(fig_inconfort, use_container_width=True)
 
 # Afficher les données brutes (optionnel)
 with st.expander("Afficher les Données Brutes"):
