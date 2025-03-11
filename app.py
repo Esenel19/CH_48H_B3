@@ -144,6 +144,26 @@ with col2:
                                color_discrete_sequence=["#E377C2"])
     st.plotly_chart(fig_critiques, use_container_width=True)
 
+# Ajouter le graphique pour le pourcentage d'inconfort
+if time_granularity == "Inconfort":
+    # Récupérer les 6 valeurs d'inconfort les plus fréquentes
+    top_inconforts = df['Inconfort'].value_counts().head(6).index
+
+    # Ajouter une colonne "Inconfort_Modifié" où les valeurs non présentes dans les top 6 seront regroupées dans "Autre"
+    df['Inconfort_Modifié'] = df['Inconfort'].apply(lambda x: x if x in top_inconforts else 'Autre')
+
+    # Calculer les pourcentages pour chaque catégorie d'inconfort
+    inconfort_counts = df['Inconfort_Modifié'].value_counts(normalize=True).reset_index(name='percentage')
+    inconfort_counts.columns = ['Inconfort', 'Percentage']
+    inconfort_counts['Percentage'] = inconfort_counts['Percentage'] * 100  # Convertir en pourcentage
+
+    # Graphique: Pourcentage des catégories d'inconfort avec regroupement en "Autre"
+    fig_inconfort = px.pie(inconfort_counts, names='Inconfort', values='Percentage', 
+                           title="Pourcentage d'Inconfort avec regroupement en 'Autre'", 
+                           color='Inconfort', color_discrete_sequence=px.colors.qualitative.Set3)
+
+    st.plotly_chart(fig_inconfort, use_container_width=True)
+
 # Ajouter le graphique pour le pourcentage des catégories
 if time_granularity == "Catégorie":
     # Récupérer les 6 catégories les plus fréquentes
