@@ -112,7 +112,7 @@ with col1:
         fig_tweets = px.bar(tweets_per_week, x='week', y='nombre_tweets',
                             title='Nombre de Tweets par Semaine',
                             color_discrete_sequence=["#0083B8"])
-    elif time_granularity == "Mois":
+    else:  # Mois
         df['month'] = pd.to_datetime(df['created_at']).dt.strftime('%Y-%m')
         tweets_per_month = df.groupby('month').size().reset_index(name='nombre_tweets')
         fig_tweets = px.bar(tweets_per_month, x='month', y='nombre_tweets',
@@ -137,43 +137,31 @@ with col2:
         fig_critiques = px.bar(critiques_par_semaine, x='week', y='tweets_critiques',
                                title='Nombre de Tweets Critiques par Semaine',
                                color_discrete_sequence=["#E377C2"])
-    elif time_granularity == "Mois":
+    else:  # Mois
         critiques_par_mois = df[df['contains_keywords']].groupby('month').size().reset_index(name='tweets_critiques')
         fig_critiques = px.bar(critiques_par_mois, x='month', y='tweets_critiques',
                                title='Nombre de Tweets Critiques par Mois',
                                color_discrete_sequence=["#E377C2"])
     st.plotly_chart(fig_critiques, use_container_width=True)
 
-# Ajouter le graphique pour le pourcentage d'inconfort
-if time_granularity == "Inconfort":
-    # Nettoyage et préparation des données pour l'inconfort
-    inconfort_counts = df['Inconfort'].value_counts(normalize=True).reset_index(name='percentage')
-    inconfort_counts.columns = ['Inconfort', 'Percentage']
-    inconfort_counts['Percentage'] = inconfort_counts['Percentage'] * 100  # Convertir en pourcentage
-
-    # Graphique: Pourcentage des catégories d'inconfort
-    fig_inconfort = px.pie(inconfort_counts, names='Inconfort', values='Percentage', 
-                           title="Pourcentage d'Inconfort selon les catégories", 
-                           color='Inconfort', color_discrete_sequence=px.colors.qualitative.Set3)
-    st.plotly_chart(fig_inconfort, use_container_width=True)
-
-# Ajouter le graphique pour la catégorie
+# Ajouter le graphique pour le pourcentage des catégories
 if time_granularity == "Catégorie":
     # Récupérer les 6 catégories les plus fréquentes
     top_categories = df['Catégorie'].value_counts().head(6).index
 
-    # Regrouper les autres catégories sous "Autre"
+    # Ajouter une colonne "Catégorie_Modifiée" où les catégories non présentes dans les top 6 seront regroupées dans "Autre"
     df['Catégorie_Modifiée'] = df['Catégorie'].apply(lambda x: x if x in top_categories else 'Autre')
 
-    # Calculer les pourcentages
+    # Calculer les pourcentages pour chaque catégorie
     categorie_counts = df['Catégorie_Modifiée'].value_counts(normalize=True).reset_index(name='percentage')
     categorie_counts.columns = ['Catégorie', 'Percentage']
     categorie_counts['Percentage'] = categorie_counts['Percentage'] * 100  # Convertir en pourcentage
 
     # Graphique: Pourcentage des catégories avec "Autre"
     fig_categorie = px.pie(categorie_counts, names='Catégorie', values='Percentage', 
-                           title="Pourcentage des Catégories avec regroupement en 'Autre'", 
+                           title="Pourcentage des Catégories d'Inconfort avec regroupement en 'Autre'", 
                            color='Catégorie', color_discrete_sequence=px.colors.qualitative.Set3)
+
     st.plotly_chart(fig_categorie, use_container_width=True)
 
 # Afficher les données brutes (optionnel)
