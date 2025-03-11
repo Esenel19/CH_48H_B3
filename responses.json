@@ -1,0 +1,3257 @@
+[
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 1
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 2
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 3
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 5
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 6
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 7
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 8
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 9
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 10
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 11
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 12
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 13
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 14
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 15
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 16
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 17
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 18
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 19
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 20
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 21
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 22
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 23
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 24
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 25
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 26
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 27
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 28
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 29
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 30
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 31
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 32
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 33
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 34
+    },
+    {
+        "Inconfort": 95,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 35
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 37
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 38
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 39
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 40
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 41
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 42
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 43
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 44
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 45
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 46
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 48
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 49
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 51
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 52
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 53
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation, Pannes et urgences",
+        "id": 54
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 55
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 56
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 57
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation, Service client injoignable",
+        "id": 58
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 59
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 60
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 61
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 62
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 63
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 64
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 66
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 67
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Aucune",
+        "id": 68
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 69
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 70
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 72
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 73
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 75
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 76
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 77
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 78
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 79
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 80
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 82
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 83
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 84
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 85
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 86
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 87
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 88
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 89
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 91
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 92
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 93
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 94
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 95
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 96
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 98
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 99
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 100
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 101
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 102
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 103
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 104
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 106
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 108
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 110
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 111
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 112
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 113
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 115
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 116
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 117
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 119
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "N/A",
+        "id": 121
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 122
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 123
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 124
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 126
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 128
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 129
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 130
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 131
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 132
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 133
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 136
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 137
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 138
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 139
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 140
+    },
+    {
+        "Inconfort": 75,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 141
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 142
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 143
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 144
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 146
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 148
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 149
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 150
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 151
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 152
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 153
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 154
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 155
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 156
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 158
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 159
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 160
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 161
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 162
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 163
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 164
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 165
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 166
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 167
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 168
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 169
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 170
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 172
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 173
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 174
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 175
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 176
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 177
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 178
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 179
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 180
+    },
+    {
+        "Inconfort": 20,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Demande d'information",
+        "id": 181
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 182
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 183
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 184
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 185
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 188
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 190
+    },
+    {
+        "Inconfort": 100,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 191
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 192
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 193
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 194
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 195
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 196
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 197
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 198
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 199
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 200
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 201
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 202
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 204
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Délai d intervention",
+        "id": 206
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 207
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 208
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 210
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 211
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 213
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 214
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 215
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 216
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 217
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 218
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 219
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 220
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 222
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Positif",
+        "Urgence": false,
+        "Catégorie": "Aucune",
+        "id": 223
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 224
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 225
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 227
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 228
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 230
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 231
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 232
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 233
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 234
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 235
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 236
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 237
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 238
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 239
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 241
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 242
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 244
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 246
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information générale",
+        "id": 247
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 248
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 249
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 250
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information sur les offres",
+        "id": 251
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 252
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 253
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 254
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 255
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 256
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 257
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 258
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 260
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 262
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 263
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 264
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 265
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 266
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 267
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 269
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 270
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client incompétent",
+        "id": 273
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 274
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 275
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 276
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 277
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 278
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 279
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 280
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 281
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 282
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 283
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 286
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 287
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 288
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 289
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 290
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 292
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 293
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 296
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 297
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 298
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 300
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 301
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 302
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 304
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 306
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 307
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 308
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 309
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 310
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 312
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 313
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 314
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 315
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 316
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 317
+    },
+    {
+        "Inconfort": 30,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 319
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 320
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 321
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 322
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 324
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 325
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 326
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 327
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 330
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 331
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 332
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 333
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 334
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 335
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 336
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 337
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 338
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 340
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 341
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 343
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Prix et facturation",
+        "id": 344
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 345
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 346
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 347
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 349
+    },
+    {
+        "Inconfort": 75,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 351
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 352
+    },
+    {
+        "Inconfort": 100,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 354
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 355
+    },
+    {
+        "Inconfort": 30,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information service client",
+        "id": 358
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 359
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 360
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 361
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Informations générales",
+        "id": 363
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 364
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 366
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 367
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 369
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 370
+    },
+    {
+        "Inconfort": 100,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 372
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 373
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 374
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 375
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 376
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information générale",
+        "id": 377
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 378
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 381
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 383
+    },
+    {
+        "Inconfort": 10,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information sur le contrat",
+        "id": 384
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 385
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 386
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 387
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 388
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 389
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 391
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 393
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 394
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 395
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 397
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 399
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 401
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 403
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 404
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 405
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 406
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 408
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 409
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 411
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 412
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 413
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 414
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 415
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 416
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 418
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 419
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 420
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 421
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 422
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 423
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 425
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 426
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 429
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 431
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 434
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 435
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 437
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 438
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 440
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 441
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 442
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Autre problème (agression)",
+        "id": 443
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 444
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 445
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "N/A",
+        "id": 447
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 448
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Positif",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 449
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 450
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 451
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 452
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 453
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 455
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 456
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 458
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 459
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 460
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 461
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 462
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 463
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 465
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 466
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 467
+    },
+    {
+        "Inconfort": 95,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 468
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 469
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 471
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 472
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 473
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 474
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 475
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 477
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 478
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 479
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 480
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 481
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 483
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 484
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 485
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 488
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 489
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 491
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 494
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 496
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 497
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information agences",
+        "id": 499
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 500
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 501
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Service client injoignable",
+        "id": 502
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 503
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 504
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de sécurité",
+        "id": 505
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 507
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information sur les tarifs",
+        "id": 509
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 510
+    },
+    {
+        "Inconfort": 90,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 511
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 512
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 513
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 514
+    },
+    {
+        "Inconfort": 85,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 515
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 516
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 517
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 518
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 519
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 521
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 522
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Conduite irresponsable des agents",
+        "id": 524
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Comportement inapproprié du personnel commercial",
+        "id": 525
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 526
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 527
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 528
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 529
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 530
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 531
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 532
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 533
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 535
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 536
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 537
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 538
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 539
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 540
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 542
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 543
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 544
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 545
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 547
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 548
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 549
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 551
+    },
+    {
+        "Inconfort": 70,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes avec l’application",
+        "id": 552
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation, Service client injoignable",
+        "id": 553
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 554
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 555
+    },
+    {
+        "Inconfort": 50,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Pannes et urgences",
+        "id": 556
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Information",
+        "id": 557
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 558
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 559
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 560
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Délai d’intervention",
+        "id": 561
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 562
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 563
+    },
+    {
+        "Inconfort": 60,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 564
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 565
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Problèmes de facturation",
+        "id": 566
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Pannes et urgences",
+        "id": 569
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 570
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": true,
+        "Catégorie": "Délai d’intervention",
+        "id": 571
+    },
+    {
+        "Inconfort": 0,
+        "Sentiment": "Neutre",
+        "Urgence": false,
+        "Catégorie": "Autre",
+        "id": 572
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 573
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Problèmes de facturation",
+        "id": 575
+    },
+    {
+        "Inconfort": 80,
+        "Sentiment": "Négatif",
+        "Urgence": false,
+        "Catégorie": "Service client injoignable",
+        "id": 576
+    }
+]
