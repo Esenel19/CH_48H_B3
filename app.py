@@ -18,7 +18,7 @@ def load_data(file_path):
     df = pd.read_csv(file_path, sep=';')
     return df
 
-file_path = "./output/filtered_tweets_engie_final.csv"
+file_path = "./output/filtered_tweets_engie_final_with_inconfort.csv"
 df = load_data(file_path)
 
 # Conversion des dates et gestion des colonnes
