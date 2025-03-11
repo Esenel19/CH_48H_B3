@@ -144,6 +144,27 @@ with col2:
                                 color_discrete_sequence=["#E377C2"])
     st.plotly_chart(fig_critiques, use_container_width=True)
 
+# --- Nouveaux Graphiques de Catégories et Inconfort ---
+col3, col4 = st.columns(2)
+
+with col3:
+    # Graphique: Fréquence des Catégories
+    category_count = df['Catégorie'].value_counts().reset_index()
+    category_count.columns = ['Catégorie', 'Nombre de Tweets']
+    fig_category = px.bar(category_count, x='Catégorie', y='Nombre de Tweets',
+                          title='Fréquence des Catégories',
+                          color='Catégorie', color_discrete_sequence=px.colors.qualitative.Set3)
+    st.plotly_chart(fig_category, use_container_width=True)
+
+with col4:
+    # Graphique: Inconfort Moyen par Catégorie
+    inconfort_category_avg = df.groupby('Catégorie')['Inconfort'].mean().reset_index()
+    inconfort_category_avg = inconfort_category_avg.sort_values('Inconfort', ascending=False)
+    fig_inconfort = px.bar(inconfort_category_avg, x='Catégorie', y='Inconfort',
+                           title='Inconfort Moyen par Catégorie',
+                           color='Catégorie', color_discrete_sequence=px.colors.qualitative.Set2)
+    st.plotly_chart(fig_inconfort, use_container_width=True)
+
 # Afficher les données brutes (optionnel)
 with st.expander("Afficher les Données Brutes"):
     st.dataframe(df)
